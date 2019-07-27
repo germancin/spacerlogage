@@ -1,2 +1,2 @@
 # spacerlogage
-sell your space per pound.
+sell the space of your logage per pound.
